@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0zy9kDr34y45FHI+4aPCdDt4zB6s6ivq54lhNJ10i7NgL5E+GV1M4mLofsIXgTxmIgdj4u4loQ+NIbJXHay+YQ==",
+  "success": true,
+  "projectFilePath": "D:\\3 hk2\\software developement\\Lab1_F1\\Lab1_F1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\konod\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\konod\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\konod\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\konod\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
