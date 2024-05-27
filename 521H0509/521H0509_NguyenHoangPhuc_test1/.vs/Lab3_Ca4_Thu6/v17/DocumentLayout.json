@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3 hk2\\software developement\\521H0509\\521H0509_NguyenHoangPhuc_test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A0AD46-AC9C-47AF-AA6F-EC316C996674}|521H0509.csproj|d:\\3 hk2\\software developement\\521h0509\\521h0509_nguyenhoangphuc_test1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A0AD46-AC9C-47AF-AA6F-EC316C996674}|521H0509.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A0AD46-AC9C-47AF-AA6F-EC316C996674}|Lab3_Ca4_Thu6.csproj|D:\\3 hk2\\software developement\\521H0509\\521H0509_NguyenHoangPhuc_test1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A0AD46-AC9C-47AF-AA6F-EC316C996674}|Lab3_Ca4_Thu6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\3 hk2\\software developement\\521H0509\\521H0509_NguyenHoangPhuc_test1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\3 hk2\\software developement\\521H0509\\521H0509_NguyenHoangPhuc_test1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAALwAAAAAAAAAAAAiwMMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-04-16T01:57:06.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\3 hk2\\software developement\\521H0509\\521H0509_NguyenHoangPhuc_test1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\3 hk2\\software developement\\521H0509\\521H0509_NguyenHoangPhuc_test1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAcwL0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:57:06.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

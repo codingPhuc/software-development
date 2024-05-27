@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\3 hk2\\software developement\\Lab3_Ca4_Thu6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A0AD46-AC9C-47AF-AA6F-EC316C996674}|Lab3_Ca4_Thu6.csproj|d:\\3 hk2\\software developement\\lab3_ca4_thu6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A0AD46-AC9C-47AF-AA6F-EC316C996674}|Lab3_Ca4_Thu6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A0AD46-AC9C-47AF-AA6F-EC316C996674}|Lab3_Ca4_Thu6.csproj|D:\\3 hk2\\software developement\\Lab3_Ca4_Thu6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7A0AD46-AC9C-47AF-AA6F-EC316C996674}|Lab3_Ca4_Thu6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Lab3_Ca4_Thu6||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7A0AD46-AC9C-47AF-AA6F-EC316C996674}|Lab3_Ca4_Thu6.csproj|D:\\3 hk2\\software developement\\Lab3_Ca4_Thu6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7A0AD46-AC9C-47AF-AA6F-EC316C996674}|Lab3_Ca4_Thu6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lab3_Ca4_Thu6",
+              "DocumentMoniker": "D:\\3 hk2\\software developement\\Lab3_Ca4_Thu6\\Lab3_Ca4_Thu6.csproj",
+              "RelativeDocumentMoniker": "Lab3_Ca4_Thu6.csproj",
+              "ToolTip": "D:\\3 hk2\\software developement\\Lab3_Ca4_Thu6\\Lab3_Ca4_Thu6.csproj",
+              "RelativeToolTip": "Lab3_Ca4_Thu6.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-16T00:37:30.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\3 hk2\\software developement\\Lab3_Ca4_Thu6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\3 hk2\\software developement\\Lab3_Ca4_Thu6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:37:26.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\3 hk2\\software developement\\Lab3_Ca4_Thu6\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\3 hk2\\software developement\\Lab3_Ca4_Thu6\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwCYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T00:31:22.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\3 hk2\\software developement\\Lab3_Ca4_Thu6\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\3 hk2\\software developement\\Lab3_Ca4_Thu6\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T00:31:22.998Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

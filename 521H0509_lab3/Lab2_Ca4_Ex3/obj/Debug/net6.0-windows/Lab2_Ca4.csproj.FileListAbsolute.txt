@@ -92,9 +92,9 @@ D:\3 hk2\software developement\521H0509_lab3\Lab2_Ca4_Ex3\obj\Debug\net6.0-windo
 D:\3 hk2\software developement\521H0509_lab3\Lab2_Ca4_Ex3\obj\Debug\net6.0-windows\Lab2_Ca4.AssemblyInfo.cs
 D:\3 hk2\software developement\521H0509_lab3\Lab2_Ca4_Ex3\obj\Debug\net6.0-windows\Lab2_Ca4.csproj.CoreCompileInputs.cache
 D:\3 hk2\software developement\521H0509_lab3\Lab2_Ca4_Ex3\obj\Debug\net6.0-windows\Lab2_Ca4.sourcelink.json
-D:\3 hk2\software developement\521H0509_lab3\Lab2_Ca4_Ex3\obj\Debug\net6.0-windows\Lab2_Ca4.csproj.CopyComplete
 D:\3 hk2\software developement\521H0509_lab3\Lab2_Ca4_Ex3\obj\Debug\net6.0-windows\Lab2_Ca4.dll
 D:\3 hk2\software developement\521H0509_lab3\Lab2_Ca4_Ex3\obj\Debug\net6.0-windows\refint\Lab2_Ca4.dll
 D:\3 hk2\software developement\521H0509_lab3\Lab2_Ca4_Ex3\obj\Debug\net6.0-windows\Lab2_Ca4.pdb
 D:\3 hk2\software developement\521H0509_lab3\Lab2_Ca4_Ex3\obj\Debug\net6.0-windows\Lab2_Ca4.genruntimeconfig.cache
 D:\3 hk2\software developement\521H0509_lab3\Lab2_Ca4_Ex3\obj\Debug\net6.0-windows\ref\Lab2_Ca4.dll
+D:\3 hk2\software developement\521H0509_lab3\Lab2_Ca4_Ex3\obj\Debug\net6.0-windows\Lab2_Ca4.csproj.Up2Date

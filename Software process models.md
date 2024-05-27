@@ -4,19 +4,23 @@
 - Specification , development and validation are interleaved 
 **Reused-oreiented software engineering**
 - The system is assembled form existing components May be plan drivent or agile 
-In practice , most large systems are developed using a process that incorporates element from all of these models 
+In practice , most large systems are developed using a process that incorporates element from all of these models  
+
+
+
 # The waterfall model 
 
 
 ## The waterfall model 
+The Waterfall model is like building a house with a detailed blueprint where the requirements are set in stone. It involves breaking down the project into different steps:
 ![[side_2_waterfall.PNG]]
 
 There are separate identified phases in the waterfall models : 
-- requirements analysis and definition 
-- System and software design 
-- Implementation and unit testing 
-- integration and system testing 
-- Operation and maintenance 
+1. **Requirement Stage**: The requirements are clearly defined and set for a good outcome.
+2. **Design**: The design must be clear and future-proof.
+3. **Implementation**: The implementation should meet the set criteria.
+4. **Testing**: This stage addresses any bugs that require fixing.
+5. **Maintainability**: This involves fixing small bugs.
 
 The main draw back of the waterfall model is the **difficulty of accommodating** change after the process is underway . In  principle  , a phase has to be complete before moving onto the  next phase 
 ### Waterfall model problems 

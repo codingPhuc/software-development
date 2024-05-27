@@ -8,55 +8,65 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a7cc2bbc3468ce7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78690bfacfab7f71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agile Method s.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6df676d888d100b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agile Process.md",
+                "file": "software Engineering Fundamental.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d6e881dbb1b2b095",
+            "id": "9c6c1b20fa68c66f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-03-24.md",
+                "file": "state diagram.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dfd874872ee3cc46",
+            "id": "a8e452f961965eb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-05.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59fa7d3b8cbdb454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-04-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8074c035c3ff575b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "picture sotfware engineering/actor.PNG"
+              }
+            }
+          },
+          {
+            "id": "a1e83f13ad3df81f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,25 +76,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d68287f8e3ef44aa",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d49f9c39c15577f2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +128,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b0fa2815edbd8a36",
@@ -150,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Used cases.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Used cases.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +183,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Used cases.md"
+              }
             }
           }
         ]
@@ -208,51 +206,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d49f9c39c15577f2",
+  "active": "a1e83f13ad3df81f",
   "lastOpenFiles": [
-    "2024-03-24.md",
+    "UseCase Diagram0.png",
+    "Software process.md",
+    "software Engineering Fundamental.md",
+    "Software process models.md",
+    "So tay san hoc bong-nguonhocbong-final version.pdf",
+    "prototype system.md",
+    "increment development.md",
+    "Collecting Requirements.md",
+    "Class Diagrams.md",
+    "Erd.drawio.png",
+    "Agile Process.md",
+    "Erd.drawio",
+    "2024-04-09.md",
+    "2024-04-05.md",
+    "picture sotfware engineering/actor.PNG",
+    "Agile Method s.md",
+    "Activity diagrams.md",
     "2024-03-25.md",
+    "2024-03-08.md",
+    "Flow Chart.md",
+    "picture sotfware engineering/flow chart symbol.PNG",
+    "521H0509_lab7/lab7_ex2/obj/ea91de6e-71f5-4072-937e-7bfdb6f35a31.tmp",
+    "picture sotfware engineering/namesoftware.PNG",
+    "Untitled 1.md",
+    "Used cases.md",
+    "UML.md",
+    "Welcome.md",
+    "state diagram.md",
+    "Programming approach.md",
+    "Software.md",
+    "Programming Apporach.md",
+    "2024-03-26.md",
+    "2024-03-29.md",
     "picture sotfware engineering/class_5_homworkstate.PNG",
     "picture sotfware engineering/class_5_homworksequendiagram.PNG",
     "picture sotfware engineering/class_5_homworkclass.PNG",
     "picture sotfware engineering/side_5_homeworkusedcase.PNG",
-    "2024-03-26.md",
     "picture sotfware engineering/side_5_statediagram1.PNG",
     "picture sotfware engineering/side_5_statediagram.PNG",
-    "picture sotfware engineering/side_5_activitydiagram2.PNG",
-    "picture sotfware engineering/side_5_activitydiagram1.PNG",
-    "picture sotfware engineering/side_5_activitydiagram.PNG",
-    "picture sotfware engineering/class_5_usedcases.PNG",
-    "Untitled.md",
-    "Agile Process.md",
     "powerpoint/~$04_Requirement Process.pptx",
     "powerpoint/~$03_Agile Process.pptx",
-    "Sequence Diagrams.md",
-    "increment development.md",
-    "UML.md",
-    "Agile Method s.md",
-    "Welcome.md",
-    "Used cases.md",
-    "prototype system.md",
-    "Software.md",
-    "software Engineering Fundamental.md",
-    "Software process.md",
     "Software-Engineering-9th-Edition-by-Ian-Sommerville.pdf",
-    "Software process models.md",
     "powerpoint/~$05_UML.pptx",
     "powerpoint/~$06_Software Design.pptx",
     "powerpoint/~$02_Software Process.pptx",
-    "2024-03-18.md",
-    "2024-03-08.md",
-    "Sotfware Engineering.md",
-    "Untitled 2.md",
     "Untitled 1.canvas",
-    "Untitled 1.md",
     "Untitled.canvas",
-    "picture sotfware engineering",
-    "New folder",
-    "2024-03-01.md",
-    "2024-01-19.md",
-    "software-development"
+    "picture sotfware engineering"
   ]
 }

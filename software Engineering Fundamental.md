@@ -45,6 +45,32 @@ Some fundamental principles apply to all types of software systems , irrespectiv
 
 
 
+## Object-Oriented Design and Unified Modeling When designing software 
+
+### 1. [[Collecting Requirements]]
+
+- Identify the problem that needs to be solved.
+- Document important decisions.
+- Describe the application from the user’s perspective.
+### 2. Describing the Application
+
+- Create a non-functional prototype.
+- For example, creating an iOS app prototype will give the client a clear idea.
+
+### 3. Identifying System Components
+
+- Identify the things that form our system.
+
+### 4. Describing Classes
+
+- Describe the classes in a formal way.
+- [[UML]] is a way to create a system.
 
 
 
+
+
+
+# python  
+# C# 
+# C++  

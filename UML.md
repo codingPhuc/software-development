@@ -38,3 +38,15 @@ UML defines 13 diagrams that describe 4 +1 architecture views
 # Sequence Diagrams 
  [[Sequence Diagrams]] **Interactive diagram describe how group of object collaborate in some behavior** . The UML define server form of UML one of which is sequence diagram 
 Typically , a sequence  diagram captures the **behavior of a single scenario**. The diagram show a number of example object and the message that are passed between these object within the use case 
+
+
+# Class Diagrams 
+In [software engineering](https://en.wikipedia.org/wiki/Software_engineering "Software engineering"), a [[Class Diagrams]] in the [Unified Modeling Language](https://en.wikipedia.org/wiki/Unified_Modeling_Language "Unified Modeling Language") (UML) is a type of static structure diagram that describes the structure of a system by showing the system's [classes](https://en.wikipedia.org/wiki/Class_(computer_science) "Class (computer science)"), their attributes, operations (or methods), and the relationships among objects.
+
+# activity diagram   
+
+[[Activity diagrams]] are **graphical representations of workflows of stepwise activities and actions with support for choice, iteration and concurrency**.
+
+
+# State Diagram  
+A [[state diagram]] is **a type of diagram used in computer science and related fields to describe the behavior of systems**. State diagrams require that the system described is composed of a finite number of states;

@@ -5,6 +5,8 @@ Many different software process but all involve :
 - design and implementation - defining the organization of the system and implementing the system 
 - Validation -checking that it does what the customer wants 
 - Evolution - changing the system in response  to changing customer need 
+# Different type of programming approach 
+Non-Structured Programming, Structured Programming, and Object-Oriented Programming (OOP) are all paradigms in the field of computer programming. They represent different methodologies for organizing and structuring code in a software program [[Programming approach]]  
 
 # Software process descriptions 
 When we describe and discuss processes , we usually talk about the activities in these processes such as specifying a  **data model , designing a user interface** , etc  . and the **ordering of these activities** 
@@ -15,9 +17,11 @@ Process description may also include :
 
 # Plan-driven and agile processes 
 Plan-driven processes are processes where all of the process activities are **planned in advance and progress is measured against this plan** 
-In agile processes , planning is incremental and it is easier to change the process to reflect changing customer requirements 
+In [[Agile Process]] , planning is incremental and it is easier to change the process to reflect changing customer requirements 
 In practice , most practical processes include element of both plan-driven and agile approaches 
-there are no right or wrong software processes  there  are different [[Software process models]] bases on Plan-driven and agile process 
+there are no right or wrong software processes  there  are different [[Software process models]] bases on Plan-driven and agile process  
+
+The Waterfall model is more rigid than Agile. If a project is uncertain, then Agile is more suitable. However, if the requirements are clear and unlikely to change, the Waterfall model is more acceptable.
 
 # Software specification 
 The process of establishing what services are required and the constraints on the system operation and development 

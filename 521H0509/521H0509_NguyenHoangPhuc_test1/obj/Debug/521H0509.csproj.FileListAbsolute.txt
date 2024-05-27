@@ -12,3 +12,17 @@ D:\3 hk2\software developement\521H0509_NguyenHoangPhuc_test1\obj\Debug\521H0509
 D:\3 hk2\software developement\521H0509_NguyenHoangPhuc_test1\obj\Debug\521H0509.csproj.CopyComplete
 D:\3 hk2\software developement\521H0509_NguyenHoangPhuc_test1\obj\Debug\Lab3_Ca4_Thu6.exe
 D:\3 hk2\software developement\521H0509_NguyenHoangPhuc_test1\obj\Debug\Lab3_Ca4_Thu6.pdb
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\bin\Debug\Lab3_Ca4_Thu6.exe.config
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\bin\Debug\Lab3_Ca4_Thu6.exe
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\bin\Debug\Lab3_Ca4_Thu6.pdb
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\bin\Debug\BouncyCastle.Crypto.dll
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\bin\Debug\itextsharp.dll
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\bin\Debug\itextsharp.xml
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\obj\Debug\521H0509.csproj.AssemblyReference.cache
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\obj\Debug\Lab3_Ca4_Thu6.Form1.resources
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\obj\Debug\Lab3_Ca4_Thu6.Properties.Resources.resources
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\obj\Debug\521H0509.csproj.GenerateResource.cache
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\obj\Debug\521H0509.csproj.CoreCompileInputs.cache
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\obj\Debug\521H0509.csproj.Up2Date
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\obj\Debug\Lab3_Ca4_Thu6.exe
+D:\3 hk2\software developement\521H0509\521H0509_NguyenHoangPhuc_test1\obj\Debug\Lab3_Ca4_Thu6.pdb

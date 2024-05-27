@@ -1,8 +1,13 @@
 [[Used cases]] are technique  for capturing the **functional requirement** of a System .Use cases work by describing the typical **interaction** between the user of the system and system itself , providing a  narrative of how a system is used 
 
-²A scenario: “The customer browses the catalog and adds desired items to the shopping basket. When the customer wishes to pay, the customer describes the shipping and credit card information and confirms the sale. The system checks the authorization an the credit card and confirms the sale both immediately and with a follow-up e-mail”
 
+## User Stories
 
+A common way of describing use cases is through user stories. The format is usually: “As a `<type of user>`, I want to `<some goal>` so that `<some reason>`”. 
+If you cannot fit user stories into one sentence, then you need to break it down into multiple sentences. 
+For example, “As a user, I want to create new trips so that I can track them in different user stories”. These stories are used to ignite discussion.
+
+A scenario: “The customer browses the catalog and adds desired items to the shopping basket. When the customer wishes to pay, the customer describes the shipping and credit card information and confirms the sale. The system checks the authorization an the credit card and confirms the sale both immediately and with a follow-up e-mail”
 
 This  scenario is one thing that can happen . **However , the credit card authorization might fail , and this would be a separate scenario** 
 
